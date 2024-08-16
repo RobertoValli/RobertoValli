@@ -1,8 +1,10 @@
 Hi, welcome to my GitHub!
 
-I am a doctoral student in political science interested in nationalism, ethnic politics, and the related dynamics of identity and conflict.
+I am a political scientist interested in nationalism, ethnic politics, and the related dynamics of identity and conflict.
 
 You can contact me at roberto.valli@icr.gess.ethz.ch
+
+Also, check out my personal website: [https://www.robertovalli.com/](https://www.robertovalli.com/)
 
 Cheers,
 Roberto
